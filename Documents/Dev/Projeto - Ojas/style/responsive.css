@@ -1,0 +1,22 @@
+header.logo_principal{
+    display: flex;/*faz a tag nav ficar ao lado da logo, todos os links, Ojas, Aulas, Notícias, Contato estão ao lado da logo Ojas*/
+    align-items: center; /*Deixa a tag nav citada a cima alinhada , sem ela as tags ficam a cima da logo Ojas*/
+    justify-content: space-between; /*É o espaço entre a logo e as tag nav, sem ela as tags iriam ficar muito próximas dando*/
+    margin-left: 10px;
+    padding: 20px;
+    
+
+}
+.tag_curso{
+    margin-right: 50px;
+    text-decoration: none;
+}
+    
+
+
+
+
+
+
+
+}
